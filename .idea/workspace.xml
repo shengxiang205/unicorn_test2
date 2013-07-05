@@ -51,6 +51,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="application.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/application.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="51" selection-start="2884" selection-end="2884" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="config.ru" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.ru">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,7 +72,7 @@
       <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="43" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+            <state line="10" column="38" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -72,7 +81,7 @@
       <file leaf-file-name="rainbows.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/rainbows.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="23" selection-start="311" selection-end="311" vertical-scroll-proportion="0.4318182">
+            <state line="13" column="18" selection-start="228" selection-end="228" vertical-scroll-proportion="0.35085228">
               <folding />
             </state>
           </provider>
@@ -82,15 +91,6 @@
         <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/faraday-0.8.7/lib/faraday/response.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="joowing_data.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/joowing_data.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="133" column="57" selection-start="3525" selection-end="3525" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,10 +113,10 @@
         <option value="$PROJECT_DIR$/app/models/data.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config.ru" />
-        <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/unicorn-4.6.3/lib/unicorn/configurator.rb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/app/models/joowing_data.rb" />
+        <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/config/rainbows.rb" />
       </list>
     </option>
@@ -632,13 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="24" selection-start="91" selection-end="91" vertical-scroll-proportion="0.026988637">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/inflections.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -667,13 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/joowing_data.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="57" selection-start="3525" selection-end="3525" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.ru">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
@@ -695,9 +681,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="43" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+        <state line="62" column="51" selection-start="2884" selection-end="2884" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/joowing_data.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="8" selection-start="3372" selection-end="3372" vertical-scroll-proportion="-0.057268724">
           <folding />
         </state>
       </provider>
@@ -709,9 +702,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/rainbows.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="23" selection-start="311" selection-end="311" vertical-scroll-proportion="0.4318182">
+        <state line="13" column="18" selection-start="228" selection-end="228" vertical-scroll-proportion="0.35085228">
           <folding />
         </state>
       </provider>

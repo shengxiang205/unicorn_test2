@@ -11,10 +11,10 @@ puts Rails.root
 
 rails_env = ENV["RAILS_ENV"] || "production"
 
-worker_processes 4 # assuming four CPU cores
+worker_processes 8 # assuming four CPU cores
 Rainbows! do
   use :EventMachine
-  worker_connections 25
+  worker_connections 50
 end
 
 preload_app true

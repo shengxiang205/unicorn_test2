@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails unicorn_test: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="533037e0-3d51-4a8f-8a86-66c54a63839a">
+    <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+    <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
+    <libraries>
+      <library>
+        <url>file://</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>

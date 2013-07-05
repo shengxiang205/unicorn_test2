@@ -1,0 +1,18 @@
+development:
+  name: nis_cloud
+  auth_backend: http://192.168.10.249:30003/
+  ocean_url: http://192.168.10.249:30021
+  memcache: 192.168.10.223
+  mongo_storage: http://192.168.10.249:30010
+production:
+  name: nis_cloud
+  auth_backend: http://192.168.10.249:30003/
+  ocean_url: http://192.168.10.249:30021
+  memcache: 192.168.10.223
+  mongo_storage: http://192.168.10.249:30010
+test:
+  name: nis_cloud
+  auth_backend: http://192.168.10.248:30003/
+  ocean_url: http://192.168.10.248:30012
+  memcache: 192.168.10.223
+  mongo_storage: http://192.168.10.249:30010

@@ -40,6 +40,13 @@ before_exec do |server|
 end
 
 before_fork do |server, worker|
+  module EventMachine
+    def self.run(blk=nil, tail=nil)
+      EM.synchronize(blk, tail)
+    end
+  end
+
+
   old_pid = "#{Rails.root}/tmp/pids/rainbows.pid.oldbin"
   if File.exists?(old_pid) && server.pid != old_pid
     begin

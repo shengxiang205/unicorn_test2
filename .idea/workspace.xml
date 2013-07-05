@@ -36,7 +36,7 @@
       <file leaf-file-name="configurator.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/unicorn-4.6.3/lib/unicorn/configurator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="10" selection-start="2570" selection-end="2576" vertical-scroll-proportion="-12.038462">
+            <state line="78" column="10" selection-start="2570" selection-end="2576" vertical-scroll-proportion="-57.0">
               <folding />
             </state>
           </provider>
@@ -69,6 +69,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="rainbows.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/rainbows.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="23" selection-start="311" selection-end="311" vertical-scroll-proportion="0.4318182">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="response.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/faraday-0.8.7/lib/faraday/response.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,10 +87,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="joowing_data.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="joowing_data.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/joowing_data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="151" column="58" selection-start="4207" selection-end="4207" vertical-scroll-proportion="0.62215906">
+            <state line="133" column="57" selection-start="3525" selection-end="3525" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,9 +115,9 @@
         <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/unicorn-4.6.3/lib/unicorn/configurator.rb" />
-        <option value="$PROJECT_DIR$/config/rainbows.rb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/app/models/joowing_data.rb" />
+        <option value="$PROJECT_DIR$/config/rainbows.rb" />
       </list>
     </option>
   </component>
@@ -602,13 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.ru">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/rainbows-4.5.0/lib/rainbows/fiber_pool.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.16740088">
@@ -626,20 +628,6 @@
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/rainbows-4.5.0/bin/rainbows">
       <provider selected="true" editor-type-id="text-editor">
         <state line="126" column="14" selection-start="3602" selection-end="3602" vertical-scroll-proportion="1.1395007">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/rainbows-4.5.0/lib/rainbows/http_server.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="45" selection-end="53" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/rainbows.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="65" selection-start="386" selection-end="386" vertical-scroll-proportion="0.26988637">
           <folding />
         </state>
       </provider>
@@ -665,13 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/unicorn-4.6.3/lib/unicorn/configurator.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="10" selection-start="2570" selection-end="2576" vertical-scroll-proportion="-12.038462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/faraday-0.8.7/lib/faraday.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="4" selection-start="96" selection-end="96" vertical-scroll-proportion="0.026988637">
@@ -682,6 +663,34 @@
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@global/gems/activeresource-3.2.13/lib/active_resource/base.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="561" column="10" selection-start="21916" selection-end="21916" vertical-scroll-proportion="0.33285093">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/joowing_data.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="57" selection-start="3525" selection-end="3525" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/rainbows-4.5.0/lib/rainbows/http_server.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="45" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p286@unicorn_test/gems/unicorn-4.6.3/lib/unicorn/configurator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="10" selection-start="2570" selection-end="2576" vertical-scroll-proportion="-57.0">
           <folding />
         </state>
       </provider>
@@ -700,9 +709,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/joowing_data.rb">
+    <entry file="file://$PROJECT_DIR$/config/rainbows.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="58" selection-start="4207" selection-end="4207" vertical-scroll-proportion="0.62215906">
+        <state line="16" column="23" selection-start="311" selection-end="311" vertical-scroll-proportion="0.4318182">
           <folding />
         </state>
       </provider>

@@ -14,7 +14,7 @@ rails_env = ENV["RAILS_ENV"] || "production"
 worker_processes 4 # assuming four CPU cores
 Rainbows! do
   use :EventMachine
-  worker_connections 8
+  worker_connections 25
 end
 
 preload_app true

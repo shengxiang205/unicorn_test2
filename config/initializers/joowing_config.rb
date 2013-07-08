@@ -1,0 +1,1 @@
+Faraday::Adapter::EMSynchrony.setup_parallel_manager

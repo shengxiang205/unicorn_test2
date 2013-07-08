@@ -10,6 +10,15 @@
         </library>
       </libraries>
     </data-source>
+    <data-source source="LOCAL" name="Rails unicorn_test: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="813bfc9c-5162-4b41-bdb4-d2b35820d3af">
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/production.sqlite3</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://</url>
+        </library>
+      </libraries>
+    </data-source>
   </component>
 </project>
 
